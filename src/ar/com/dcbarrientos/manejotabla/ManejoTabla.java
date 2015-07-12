@@ -16,10 +16,7 @@ public class ManejoTabla {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        //Primer commit
-        //Este es el primer comentario para commit.
-        System.out.println("Hola mundo");
-        System.out.println("Lina 2");
+        //Este proyecto esta vacío.
     }
     
 }
